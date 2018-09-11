@@ -5,4 +5,4 @@ group MEMBERS
 3) PRADEEP.K.S - 1KS16CS062
 DESCRIPTION:
 SENDING A FILE FROM SENDER SIDE TO RECIVER SIDE  m'BITS AT A TIME
-program description at sender end we create a socket and select a file to be transferred.The length of the fil
+program description at sender end we create a socket and select a file to be transferred.The fileinputstream and  bufferinputstream is used to get the selected file
